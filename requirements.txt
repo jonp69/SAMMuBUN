@@ -1,0 +1,8 @@
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+opencv-python
+ffmpeg-python
+numpy
+Pillow
+# segment-anything, xmem, diffusers, transformers, LaMa, etc. can be added as needed
