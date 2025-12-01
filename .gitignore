@@ -1,0 +1,5 @@
+/.venv
+/EGEST
+/INGEST
+/requirements.txt
+/video_meme_compositor.py
